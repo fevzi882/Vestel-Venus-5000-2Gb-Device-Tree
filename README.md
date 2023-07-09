@@ -1,0 +1,1 @@
+# Vestel-Venus-5000-2Gb-Device-Tree
